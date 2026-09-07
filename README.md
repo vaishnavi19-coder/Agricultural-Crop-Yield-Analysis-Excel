@@ -78,6 +78,7 @@ The dashboard contains slicers for:
 - Irrigation Type
 - Soil Type
 
+
 ## 💡 Key Skills Demonstrated
 
 - Data Cleaning
